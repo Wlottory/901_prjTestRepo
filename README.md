@@ -1,3 +1,6 @@
+<pre>### SPDX-FileCopyrightText : ¨Ï 2021 Simon Seo <simon.cor.seo@gmail.com>
+### SPDX-License-Identifier: GNU AGPL (Affero GPL) v3.0</pre>
+-----
 # 901_prjTestRepo
 -----
 ## Purpose (¸ñÀû)
